@@ -27,6 +27,8 @@ However, the 'problem' arises in choosing the inital conditions required to set 
 
 An example of the Lagrange solution is shown here:
 
+#### Lagrange solution
+
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%">
 
 
