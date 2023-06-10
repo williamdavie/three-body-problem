@@ -1,6 +1,5 @@
 //
 //  RK4_3body.hpp
-//  HelloOpenGL
 //
 //  Created by William Davie on 01/06/2023.
 //
