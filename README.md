@@ -3,7 +3,7 @@
 
 # Three-Body-Problem
 
-A graphical simulation of the three body problem written in C++. This project is my first C++ project, it uses the fourth order Runge-Kutta numerical method to solve an ordinary differential equation to describe the motion of three particles. The project aimed to represent this problem using fancy OpenGl graphics. 
+A graphical simulation of the three body problem written in C++. This project is my first C++ project, it uses the fourth order Runge-Kutta numerical method to solve an ordinary differential equation to describe the motion of three particles. The project aimed to represent this problem using fancy OpenGl graphics. See bottom of Readme for running information.
 
 #### Libraries ####                                                   
 - [GLFW](https://www.glfw.org/docs/latest/)
@@ -30,6 +30,25 @@ However, the 'problem' arises in choosing the inital conditions required to set 
 
 ## Choatic Example
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Chaos.gif" width="40%" height="40%">
+
+### Running Information
+
+Running this program is relatively simple, once you have relevant libraries installed. 
+
+I used Apples xcode. To compile the project this way create a 'Command Line Tool' project template and copy the project into this template. 
+
+Then include the relevant graphics library following this youtube video:
+
+- [GLFW Apple Silicon](https://www.youtube.com/watch?v=MHlbNbWlrIM)
+
+Once the library is installed, include eigen which can be installed via:
+'''
+brew install eigen
+'''
+and can easily be added to an xcode project via; Build Settings -> Header Search Paths, once complete you should be able to compile the project. 
+
+If you are using Windows I'd recommend following youtube or GLFW docs and use your usual cpp editor. 
+
 
 
 
