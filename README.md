@@ -47,7 +47,7 @@ brew install eigen
 ```
 and can easily be added to an xcode project via; Build Settings -> Header Search Paths, once complete you should be able to compile the project. 
 
-If you are using Windows I'd recommend following youtube or GLFW docs and use your usual cpp editor. 
+If you are using Windows I'd recommend following Youtube or GLFW docs and use your usual cpp editor. 
 
 
 
