@@ -13,7 +13,7 @@ A graphical simulation of the three body problem written in C++. This project is
 
 - [Equations of Motion](https://en.wikipedia.org/wiki/Three-body_problem)
 - [Runge Kutta](http://numerical.recipes/)
-- [Initial Conditions](https://sites.math.washington.edu/~morrow/336_12/papers/adrian.pdf)
+- [Initial Conditions](https://www.maths.ed.ac.uk/~ateckent/vacation_reports/Report_Faustino.pdf)
 
 
 
