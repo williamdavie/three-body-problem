@@ -29,7 +29,7 @@ However, the 'problem' arises in choosing the inital conditions required to set 
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%"> 
 
 ## Choatic Example
-<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Choas.gif" width="40%" height="40%">
+<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Chaos.gif" width="40%" height="40%">
 
 
 
