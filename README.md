@@ -31,7 +31,7 @@ However, the 'problem' arises in choosing the inital conditions required to set 
 ## Choatic Example
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Chaos.gif" width="40%" height="40%">
 
-### Running Information
+# Running Information
 
 Running this program is relatively simple, once you have relevant libraries installed. 
 
