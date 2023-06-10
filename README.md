@@ -27,7 +27,7 @@ However, the 'problem' arises in choosing the inital conditions required to set 
 
 An example of the Lagrange solution is shown here:
 
-#### Lagrange solution        #### Choatic Example
+#### Lagrange solution                                             Choatic Example
 
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%"> <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%">
 
