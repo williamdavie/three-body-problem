@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  HelloOpenGL
 //
 //  Created by William Davie on 28/05/2023.
 //
