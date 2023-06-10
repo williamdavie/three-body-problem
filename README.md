@@ -21,9 +21,7 @@ A graphical simulation of the three body problem written in C++. This project is
 
 The motion of the bodies included in the three body problem is described entirely by Newtons law of gravitation:
 
-<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/EquationOne.png" width="40%" height="40%">
+<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/EquationOne.png" width="30%" height="30%">
 
-
-Grapics are written using GLFW
-- [GLFW Docs](https://www.glfw.org/docs/latest/)
+However, the 'problem' arises in choosing the inital conditions required to set the bodies into a 'stable' motion. 
 
