@@ -1,6 +1,5 @@
 //
 //  Circle.hpp
-//  HelloOpenGL
 //
 //  Created by William Davie on 29/05/2023.
 //
