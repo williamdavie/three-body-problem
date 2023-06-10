@@ -9,6 +9,12 @@ A graphical simulation of the three body problem written in C++. This project is
 - [GLFW](https://www.glfw.org/docs/latest/)
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 
+#### References ####
+
+- [Equations of Motion](https://en.wikipedia.org/wiki/Three-body_problem)
+- [Runge Kutta](http://numerical.recipes/)
+- [Initial Conditions](https://sites.math.washington.edu/~morrow/336_12/papers/adrian.pdf)
+
 
 
 # Physics
