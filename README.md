@@ -5,7 +5,7 @@
 
 A graphical simulation of the three body problem written in C++. This project is my first C++ project, it uses the fourth order Runge-Kutta numerical method to solve an ordinary differential equation to describe the motion of three particles. The project aimed to represent this problem using fancy OpenGl graphics. 
 
-#### Libraries ####
+#### Libraries ####                                                   
 - [GLFW](https://www.glfw.org/docs/latest/)
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 
@@ -17,7 +17,7 @@ A graphical simulation of the three body problem written in C++. This project is
 
 
 
-# Physics
+## Physics
 
 The motion of the bodies included in the three body problem is described entirely by Newtons law of gravitation:
 
