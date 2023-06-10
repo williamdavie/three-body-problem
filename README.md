@@ -19,7 +19,7 @@ A graphical simulation of the three body problem written in C++. This project is
 
 # Physics
 
-The three body problem is de
+The motion of the bodies included in the three body problem is described entirely by Newtons law of gravitation:
 
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/EquationOne.png" width="40%" height="40%">
 
