@@ -6,11 +6,7 @@
 A graphical simulation of the three body problem written in C++. 
 
 #### Libraries ####
-
-Graphics:
 - [GLFW](https://www.glfw.org/docs/latest/)
-
-Linear Algebra:
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 
 
