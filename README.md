@@ -25,9 +25,11 @@ The motion of the bodies included in the three body problem is described entirel
 
 However, the 'problem' arises in choosing the inital conditions required to set the bodies into a 'stable' motion, the majority of states are extremely unstable ( When we slightly change initial conditions, the trajectory of each body changes dramatically). Solutions to this problem include the Euler, Lagrange and figure-of-eight solutions and can be understood in great detail using the 'Inital Conditions' reference. Two examples are given below
 
-#### Lagrange solution          
+### Lagrange solution          
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%"> 
-#### Choatic Example
+
+### Choatic Example
+
 <img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%">
 
 
