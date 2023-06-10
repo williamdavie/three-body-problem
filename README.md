@@ -42,9 +42,9 @@ Then include the relevant graphics library following this youtube video:
 - [GLFW Apple Silicon](https://www.youtube.com/watch?v=MHlbNbWlrIM)
 
 Once the library is installed, include eigen which can be installed via:
-'''
+```
 brew install eigen
-'''
+```
 and can easily be added to an xcode project via; Build Settings -> Header Search Paths, once complete you should be able to compile the project. 
 
 If you are using Windows I'd recommend following youtube or GLFW docs and use your usual cpp editor. 
