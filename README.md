@@ -1,5 +1,4 @@
-
-<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/banner.png" width="80%" height="20%">
+<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/banner.png" width="80%" height="auto">
 
 # Three Body Problem
 
@@ -26,10 +25,10 @@ The motion of the bodies included in the three body problem is described entirel
 However, the 'problem' arises in choosing the inital conditions required to set the bodies into a 'stable' motion, the majority of states are extremely unstable ( When we slightly change initial conditions, the trajectory of each body changes dramatically). Solutions to this problem include the Euler, Lagrange and figure-of-eight solutions and can be understood in great detail using the 'Inital Conditions' reference. Two examples are given below
 
 ## Lagrange solution    
-<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="40%"> 
+<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/Lagrange.gif" width="40%" height="auto"> 
 
 ## Choatic Example
-<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/ChaosTheory.gif" width="60%" height="100%">
+<img src="https://github.com/DrDavie1/Three-Body-Problem/blob/main/Media/ChaosTheory.gif" width="60%" height="auto">
 
 # Running Information
 
